@@ -1,0 +1,60 @@
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbprojResolveAssemblyReference.cache
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.GenerateResource.Cache
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe.config
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Resources.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.ChipData.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Setting.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Write.resources
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_CardReader - LBP\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe.config
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbprojResolveAssemblyReference.cache
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Resources.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.ChipData.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Setting.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Write.resources
+F:\Projects\UMID_ReadAndWrite\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.GenerateResource.Cache
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe.config
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbprojResolveAssemblyReference.cache
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main.resources
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main2.resources
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Resources.resources
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.ChipData.resources
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Setting.resources
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Write.resources
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.GenerateResource.Cache
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.CoreCompileInputs.cache
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.exe
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.pdb
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\SagemCapturingDLL.dll
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\Sagem.MorphoKit.dll
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\Morpho.MorphoAcquisition.dll
+F:\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\SagemCapturingDLL.pdb
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe.config
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.exe
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\UMID_ReadAndWrite.pdb
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\Sagem.MorphoKit.dll
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\Morpho.MorphoAcquisition.dll
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\bin\Debug\SagemCapturingDLL.pdb
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbprojAssemblyReference.cache
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main.resources
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Main2.resources
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Resources.resources
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.ChipData.resources
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Setting.resources
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.Write.resources
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.GenerateResource.cache
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.CoreCompileInputs.cache
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.vbproj.CopyComplete
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.exe
+D:\WORK\Projects\UMID_ReadAndWrite - GSIS\UMID_ReadAndWrite\obj\x86\Debug\UMID_ReadAndWrite.pdb

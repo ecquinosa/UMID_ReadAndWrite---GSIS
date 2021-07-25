@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="UMID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="SAM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UMID_Element_Visible" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,48,49</Value>
+    </Setting>
+    <Setting Name="Sector_Visible" Type="System.String" Scope="User">
+      <Value Profile="(Default)">46,47</Value>
+    </Setting>
+    <Setting Name="SmartCardReader" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HID Global OMNIKEY 5422CL Smartcard Reader 0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
